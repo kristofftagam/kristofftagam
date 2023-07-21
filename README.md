@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-help me to learn how to code
+help me how to learn coding
 
 <!---
 kristofftagam/kristofftagam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
